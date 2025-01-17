@@ -1,0 +1,3 @@
+{
+    "peacock.remoteColor": "{     \"peacock.remoteColor\": {         \"*.ipynb\": \"#ffeb3b\",  // Yellow for Jupyter Notebooks         \"*.py\": \"#2196f3\",     // Blue for Python files         \"*.txt\": \"#4caf50\",    // Green for Text files         \"folder\": \"#9c27b0\"    // Purple for folders     } }"
+}
