@@ -5,3 +5,6 @@ def get_api_key() -> str:
     except Exception as e:
         logger.error(f"Error getting API key: {e}")
         raise
+
+if __name__ == "__main__":
+    api_live_key = get_api_key()
